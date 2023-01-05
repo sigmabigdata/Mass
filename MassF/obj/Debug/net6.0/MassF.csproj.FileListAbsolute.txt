@@ -1,0 +1,15 @@
+D:\Git\Projects\Mass\MassF\bin\Debug\net6.0\MassF.exe
+D:\Git\Projects\Mass\MassF\bin\Debug\net6.0\MassF.deps.json
+D:\Git\Projects\Mass\MassF\bin\Debug\net6.0\MassF.runtimeconfig.json
+D:\Git\Projects\Mass\MassF\bin\Debug\net6.0\MassF.dll
+D:\Git\Projects\Mass\MassF\bin\Debug\net6.0\MassF.pdb
+D:\Git\Projects\Mass\MassF\obj\Debug\net6.0\MassF.csproj.AssemblyReference.cache
+D:\Git\Projects\Mass\MassF\obj\Debug\net6.0\MassF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Projects\Mass\MassF\obj\Debug\net6.0\MassF.AssemblyInfoInputs.cache
+D:\Git\Projects\Mass\MassF\obj\Debug\net6.0\MassF.AssemblyInfo.cs
+D:\Git\Projects\Mass\MassF\obj\Debug\net6.0\MassF.csproj.CoreCompileInputs.cache
+D:\Git\Projects\Mass\MassF\obj\Debug\net6.0\MassF.dll
+D:\Git\Projects\Mass\MassF\obj\Debug\net6.0\refint\MassF.dll
+D:\Git\Projects\Mass\MassF\obj\Debug\net6.0\MassF.pdb
+D:\Git\Projects\Mass\MassF\obj\Debug\net6.0\MassF.genruntimeconfig.cache
+D:\Git\Projects\Mass\MassF\obj\Debug\net6.0\ref\MassF.dll
