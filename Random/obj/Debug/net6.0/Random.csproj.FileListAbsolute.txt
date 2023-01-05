@@ -1,0 +1,15 @@
+D:\Git\Projects\Mass\Random\bin\Debug\net6.0\Random.exe
+D:\Git\Projects\Mass\Random\bin\Debug\net6.0\Random.deps.json
+D:\Git\Projects\Mass\Random\bin\Debug\net6.0\Random.runtimeconfig.json
+D:\Git\Projects\Mass\Random\bin\Debug\net6.0\Random.dll
+D:\Git\Projects\Mass\Random\bin\Debug\net6.0\Random.pdb
+D:\Git\Projects\Mass\Random\obj\Debug\net6.0\Random.csproj.AssemblyReference.cache
+D:\Git\Projects\Mass\Random\obj\Debug\net6.0\Random.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Projects\Mass\Random\obj\Debug\net6.0\Random.AssemblyInfoInputs.cache
+D:\Git\Projects\Mass\Random\obj\Debug\net6.0\Random.AssemblyInfo.cs
+D:\Git\Projects\Mass\Random\obj\Debug\net6.0\Random.csproj.CoreCompileInputs.cache
+D:\Git\Projects\Mass\Random\obj\Debug\net6.0\Random.dll
+D:\Git\Projects\Mass\Random\obj\Debug\net6.0\refint\Random.dll
+D:\Git\Projects\Mass\Random\obj\Debug\net6.0\Random.pdb
+D:\Git\Projects\Mass\Random\obj\Debug\net6.0\Random.genruntimeconfig.cache
+D:\Git\Projects\Mass\Random\obj\Debug\net6.0\ref\Random.dll
