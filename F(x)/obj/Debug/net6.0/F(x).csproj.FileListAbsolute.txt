@@ -1,0 +1,15 @@
+D:\Git\Projects\Mass\F(x)\bin\Debug\net6.0\F(x).exe
+D:\Git\Projects\Mass\F(x)\bin\Debug\net6.0\F(x).deps.json
+D:\Git\Projects\Mass\F(x)\bin\Debug\net6.0\F(x).runtimeconfig.json
+D:\Git\Projects\Mass\F(x)\bin\Debug\net6.0\F(x).dll
+D:\Git\Projects\Mass\F(x)\bin\Debug\net6.0\F(x).pdb
+D:\Git\Projects\Mass\F(x)\obj\Debug\net6.0\F(x).csproj.AssemblyReference.cache
+D:\Git\Projects\Mass\F(x)\obj\Debug\net6.0\F(x).GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Projects\Mass\F(x)\obj\Debug\net6.0\F(x).AssemblyInfoInputs.cache
+D:\Git\Projects\Mass\F(x)\obj\Debug\net6.0\F(x).AssemblyInfo.cs
+D:\Git\Projects\Mass\F(x)\obj\Debug\net6.0\F(x).csproj.CoreCompileInputs.cache
+D:\Git\Projects\Mass\F(x)\obj\Debug\net6.0\F(x).dll
+D:\Git\Projects\Mass\F(x)\obj\Debug\net6.0\refint\F(x).dll
+D:\Git\Projects\Mass\F(x)\obj\Debug\net6.0\F(x).pdb
+D:\Git\Projects\Mass\F(x)\obj\Debug\net6.0\F(x).genruntimeconfig.cache
+D:\Git\Projects\Mass\F(x)\obj\Debug\net6.0\ref\F(x).dll
