@@ -1,0 +1,15 @@
+D:\Git\Projects\Mass\Stih\bin\Debug\net6.0\Stih.exe
+D:\Git\Projects\Mass\Stih\bin\Debug\net6.0\Stih.deps.json
+D:\Git\Projects\Mass\Stih\bin\Debug\net6.0\Stih.runtimeconfig.json
+D:\Git\Projects\Mass\Stih\bin\Debug\net6.0\Stih.dll
+D:\Git\Projects\Mass\Stih\bin\Debug\net6.0\Stih.pdb
+D:\Git\Projects\Mass\Stih\obj\Debug\net6.0\Stih.csproj.AssemblyReference.cache
+D:\Git\Projects\Mass\Stih\obj\Debug\net6.0\Stih.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Projects\Mass\Stih\obj\Debug\net6.0\Stih.AssemblyInfoInputs.cache
+D:\Git\Projects\Mass\Stih\obj\Debug\net6.0\Stih.AssemblyInfo.cs
+D:\Git\Projects\Mass\Stih\obj\Debug\net6.0\Stih.csproj.CoreCompileInputs.cache
+D:\Git\Projects\Mass\Stih\obj\Debug\net6.0\Stih.dll
+D:\Git\Projects\Mass\Stih\obj\Debug\net6.0\refint\Stih.dll
+D:\Git\Projects\Mass\Stih\obj\Debug\net6.0\Stih.pdb
+D:\Git\Projects\Mass\Stih\obj\Debug\net6.0\Stih.genruntimeconfig.cache
+D:\Git\Projects\Mass\Stih\obj\Debug\net6.0\ref\Stih.dll
